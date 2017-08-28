@@ -1,3 +1,2 @@
 # Desktop-Calendar
-Just setting the background as calendar or any site. Can modify to run as script to refresh background for other sites easily.
-Non-interactive for now. Only for linux systems.
+Uses the selenium webdriver to set the background as the google calendar of the person by logging in headlessly. Built for linux.
